@@ -1,0 +1,1 @@
+        print(list3[j])
